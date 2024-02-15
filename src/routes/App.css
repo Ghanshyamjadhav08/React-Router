@@ -1,0 +1,43 @@
+.app-container{
+    display: flex;
+}
+.content{
+    width: 100%;
+}
+
+
+  
+  .reactions {
+    margin: 15px 0 0 0;
+  }
+  
+  .create-post {
+    width: 80%;
+    margin-top: 50px;
+    margin-left: 10%;
+  }
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.post-card{
+    margin: 20px 50px;
+    
+}
+.footer p {
+    margin-top: 2px;
+    margin-bottom: -2rem;
+}
+.msg{
+  margin: 100px 0;
+}
+
+.spinner {
+  margin: 10% 0;
+}
+.hashtag{
+  margin:10px;
+}
